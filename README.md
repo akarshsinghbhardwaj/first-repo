@@ -1,3 +1,4 @@
 # first-repo
-This is my first git repository
+This is my first git repository 
+<hr>
 authour - akarsh 
